@@ -1,4 +1,5 @@
 fastapi
 motor
 python-dotenv
+passlib
 uvicorn
