@@ -6,4 +6,5 @@ pydantic
 pymongo
 starlette
 jwt
+bcrypt
 uvicorn
